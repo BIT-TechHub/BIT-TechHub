@@ -4,7 +4,7 @@
 
 ---
 
-![BIT Banner](https://bitinstitute.online/banner.png) <!-- Cambia esta URL al banner oficial de BIT -->
+![BIT Banner](./banner.png)
 
 ---
 
